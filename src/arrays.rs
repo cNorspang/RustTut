@@ -11,6 +11,7 @@ pub fn run(){
     //Arrays can be mutable - i.e You can reassign values, but not add to arrays
     numbers[0] = 32;
     println!("Array after change {:?}", numbers);
+    //Github check
 
     //Get lenght of array
     println!("Array Lenght: {}", numbers.len());
